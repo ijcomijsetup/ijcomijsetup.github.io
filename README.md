@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+# Canon.com/ijsetup 
 
-You can use the [editor on GitHub](https://github.com/ijcomijsetup/ijcomijsetup.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+[![Canon.com/ijsetup](l-149776964.jpg)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Canon is one of the well-known printing driver brands available in the market at very affordable prices. Setup your canon printer to experience world-class printing quality. Download the diver software for your device online via [canon.com/ijsetup](https://ijcomijsetup.github.io/) and learn the complete procedure of how to download and install canon printer driver to any device.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Canon Printer Driver Installation
 
-```markdown
-Syntax highlighted code block
+**The installation process for canon printer driver on your windows and mac devices are mentioned below:**
 
-# Header 1
-## Header 2
-### Header 3
+### For Windows
 
-- Bulleted
-- List
+* Start the installation process by locating the downloaded canon setup file.
+* Now, double-click the Driver Software File and open it. 
+* Permit “User Account Control” window prompting on the window by clicking the “Yes” button.
+* As a result, it will open the Welcome screen of the “Installation Wizard”. 
+* You will be asked to agree to the terms and conditions of it. Click "I Agree" to continue the process of installation.
+* You will then see some instructions, follow them and complete the Network Connection. 
+* Then, wait for the process to complete successfully. 
+* Finally, click “Exit” on the “Installation Complete” window. 
+* At last, restart your computer to complete the [canon.com/ijsetup](https://ijcomijsetup.github.io/) process.   
+     
 
-1. Numbered
-2. List
+### For Mac
 
-**Bold** and _Italic_ and `Code` text
+* Begin canon.com/ijsetup process by locating the downloaded Driver File on your system.and double click the Driver Software File to run.. 
+* As a result, you will get a Security Warning pop-up box. Hence, click **“Open”** to proceed with [canon.com/ijsetup](https://ijcomijsetup.github.io/). 
+* Now, click **“Yes/ Continue”** on the Welcome window of the Installer.
+* Next,  the **“Software License Agreement”** window will appear on your screen. Click  “Continue” to proceed further.
+* Finally, click “Install” on the following “Installation” window.
+* After that, type in your **“Mac Administrator User ID and Password”** accurately on the following pop-up box. 
+* Then, click **“Install Software”**. 
+* Consequently, it will begin the Installation process for **canon.com/ijsetup**. Hence, wait for the same. 
+* Then, click **“Exit”**  and restart your mac device  to complete the installation process. 
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+## Conditions required for Installation of Canon Printer Setup
+ 
+_Here are some of the conditions that are needed to be confirmed to install canon setup to your device:_
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ijcomijsetup/ijcomijsetup.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+1. Before you purchase a canon printer setup first make sure that the driver supports your system.
+2. Make sure your system consists of enough space to install the driver.
+3. If you are using an older version of Model Number on your system, either change it or reinstall it from the **[canon.com/ijsetup](https://ijcomijsetup.github.io/)** website.
+4. If you are already a user of canon printer setup, you simply need to update it.
+5. Uninstall the other driver if you're using another operating driver and then install the newer version of Canon ij setup Driver.
